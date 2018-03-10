@@ -1,2 +1,2 @@
 # hello-world
-Hello World repository
+Hi. This repo is for messing around with new things.
